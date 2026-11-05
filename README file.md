@@ -197,7 +197,9 @@ Update `DATA\_PATH` in the notebook configuration cell to point to the merged da
 
 ML-Project/
 │
-├── ML\_Project\_(Network\_Protocol\_Classification).ipynb
+├── ML project.ipynb
+│
+└── README file.md
 │
 └── README.md
 
