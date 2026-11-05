@@ -2,7 +2,7 @@
 
 Predict the network **protocol** of a packet (GQUIC, UDP, QUIC, TCP, DNS, etc.) from packet information using four Scikit-learn classifiers.
 
-> Academic Machine Learning project by \*\*Mir Asif Hossain\*\*.
+> Academic Machine Learning project by \*\*Supriya Das\*\*.
 
 ## Overview
 
